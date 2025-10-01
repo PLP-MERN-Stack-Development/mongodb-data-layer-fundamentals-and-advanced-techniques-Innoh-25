@@ -7,9 +7,13 @@
 **Project Structure**
 
 plp-bookstore/
+
 ├── insert_books.js          # Script to populate MongoDB with sample book data
+
 ├── bookstore_queries.js     # Complete MongoDB queries and operations
+
 ├── README.md               # This file
+
 └── package.json           # Node.js dependencies (if needed)
 
 **Prerequisites**
